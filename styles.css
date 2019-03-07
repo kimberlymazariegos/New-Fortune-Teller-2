@@ -1,0 +1,31 @@
+
+body {
+    font-family: arial;
+}
+
+input {
+    height: 100px;
+    padding: 5px;
+    font-size: 14px;
+    width: 260px;
+}
+
+button {
+    padding: 5px;
+    height: 32px;
+    background-color:#f63;
+    width: 85px;
+    color: white;
+    font-size: 14px;
+    border-radius: 5px;
+     text-align: center;
+}
+
+span {
+    color: #f63;
+}
+
+img {
+    width: 400px;
+}
+p{font-size:20px;}
